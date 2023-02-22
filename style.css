@@ -1,0 +1,38 @@
+.h {
+    text-align: center;
+    background: blue;
+    background: -webkit-linear-gradient(-90deg, blue, dodgerblue);
+    background: -o-linear-gradient(-90deg, blue, dodgerblue);
+    background: -moz-linear-gradient(-90deg, blue, dodgerblue);
+    background: linear-gradient(-90deg, blue, dodgerblue);
+    width: 50%;
+    border: 15px ;
+    padding: 50px;
+    margin: 20px;
+
+}
+
+.ln {
+    text-align: left;
+}
+
+.ln1 {
+    text-align: center;
+}
+
+.ln2 {
+    text-align: center;
+    width: 90%;
+    padding: 8px 15px;
+    margin: 5px 0;
+    
+}
+
+
+input[type=text] {
+    width: 90%;
+    padding: 8px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
